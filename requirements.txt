@@ -1,0 +1,8 @@
+ccxt==4.5.92
+pandas
+numpy
+flask
+requests
+psutil
+pytest
+python-dotenv
